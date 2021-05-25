@@ -14,11 +14,13 @@ Segue abaixo as descrições para as oportunidades Logísticas &nbsp;
 	Um problema grave por partes dos restaurantes e dos entregadores acredito ser os cancelamentos feitos pelo usuário. Isso acabaria com a logística do pedido, atrasando dois dos três principais stakeholders. Fixando um prazo máximo para cancelamento do pedido, ou cobrança do valor do pedido em casos extraordinários asseguraria a logistica operacional do complitude da entrega &nbsp;
 	
 4- Monitoramente em tempo real do entregador
-	Essa função é interessante não para saber o tempo entre o pedido e o cliente, mas sim para analisar o tempo que o entregar fica oscioso até pegar o pedido do restaurente. Em grandes redes, acredito ser um problema operacional essa comunicação entre o entregador e o restaurante antes do pedido ficar pronto &nbsp;
+	Essa função é interessante não para saber o tempo entre o pedido e o cliente, mas sim para analisar o tempo que o entregar fica oscioso até pegar o pedido do restaurente. Em grandes redes, acredito ser um problema operacional essa comunicação entre o entregador e o restaurante antes do pedido ficar pronto, e o cliente se prejudicando com a demora na entrega &nbsp;
 	
 5- Notificação da chegada do entregador alguns minutos antes
 	A notificação ao usuário final alguns minutos antes conseguiria diminuir consideravelmente o tempo de espera do entregador. Muitas das pessoas tem que descer muitos andares do apartamento, ou terminar seus afazeres domésticos. Isso é um problema, e uma simples solução seria disparar uma notificação 2 minutos antes da chegada do entregador para alertar o cliente &nbsp;
 
 Segue abaixo um gráfico onde mostro onde cada um dos tópicos atuaria: &nbsp;
+
+![Diagrama ClientesxEntregadoresxRestaurantes](Ifood.png)
 
 [Voltar Home](README.md)
