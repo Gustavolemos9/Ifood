@@ -21,6 +21,6 @@ Segue abaixo as descrições para as oportunidades Logísticas &nbsp;
 
 Segue abaixo um gráfico onde mostro onde cada um dos tópicos atuaria: &nbsp;
 
-![Diagrama ClientesxEntregadoresxRestaurantes](Ifood.png)
+![Diagrama ClientesxEntregadoresxRestaurantes](Ifood.PNG)
 
 [Voltar Home](README.md)
