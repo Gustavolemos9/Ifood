@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Questão1.md",
+            "file": "Questão4.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Questão1.md",
+                "file": "Questão4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,13 @@
   },
   "active": "5f7cd1041a4148a8",
   "lastOpenFiles": [
+    "Questão4.md",
+    "Questão3.md",
     "Questão1.md",
-    "README.md",
-    "Untitled.md"
+    "Questão2.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "README.md"
   ]
 }

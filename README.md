@@ -1,9 +1,16 @@
-## Testinho
+## Resoluções
 
-Olá a todos, tentei organizar meu pensamento abaixo:
+Bem-vindos!
+
+Segue abaixo as minhas respostas para as questões do formulário enviado.
+Essas também estão dentro do formulário, mas como forma de organizar mais o raciocínio e ter mais espaço que o GoogleForms, achei mais interessante redigir por aqui
 
 [Questão 1](Questão1.md)
-You can use the [editor on GitHub](https://github.com/Gustavolemos9/Ifood/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[Questão 2](Questão2.md)
+[Questão 3](Questão3.md)
+[Questão 4](Questão4.md)
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

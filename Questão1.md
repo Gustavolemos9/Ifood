@@ -1,3 +1,3 @@
-# Testando
+# Nossos principais stakeholders são: clientes, restaurantes entregadores. Para nosso crescimento saudável, devemos ter um nível de operação excelente entre os stakeholders, principalmente entregadores e restaurantes dentro da nossa logística. Sob a ótica logística: Qual análise você faria para listar as alavancas/ofensores de nível de serviço? Monte um diagrama que agrupa pelo menos 5 oportunidades logística, relacionando-as com os stakeholders impactados.
 
 [Voltar Home](README.md)
